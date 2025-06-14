@@ -14,7 +14,7 @@
   <p>🎓 Final Year B.Tech in <strong>Artificial Intelligence & Data Science</strong></p>
   <p>🧠 Passionate about <strong>Web Development, AI/ML, and Embedded IoT Systems</strong></p>
   <p>📫 Reach me at: <strong>dharundharun257@gmail.com</strong></p>
-  <p>🌐 Visit my portfolio: <em>Coming Soon</em></p>
+  <p>🌐 Visit my portfolio: <strong>https://dharunr257.github.io</strong></p>
   <p>💡 Fun Fact: I’m blending AI with hardware to build smart systems!</p>
 </div>
 
