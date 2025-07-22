@@ -1,8 +1,10 @@
 <h1 align="center">Hi 👋, I'm Dharun R</h1>
 <h3 align="center">Junior Full Stack Web Developer | AI & ML Enthusiast</h3>
 <div align="center">
-  <img src="https://profile-counter.glitch.me/Dharunr257/count.svg?" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Dharunr257&label=👁️%20Profile%20Views&color=orange&style=for-the-badge" alt="Profile Views" />
 </div>
+
+
 
 
 ---
