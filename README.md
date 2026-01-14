@@ -26,12 +26,12 @@ Cloud Engineer | AWS Certified Cloud Practitioner (CLF-C02)
 ---
 
 ## ☁️ Cloud Focus Areas
--AWS Cloud Fundamentals & Core Services (Compute, Storage, Networking, Security)
--Designing Highly Available & Fault-Tolerant Architectures
--Disaster Recovery Strategies (Backup & Restore, Multi-AZ, DNS Failover)
--Cloud Cost Management, Optimization & Monitoring
--Secure Cloud Storage, IAM-Based Access Control & Data Protection
--Automation-Ready Cloud Design & AWS Best Practice  
+- AWS Cloud Fundamentals & Core Services (Compute, Storage, Networking, Security)
+- Designing Highly Available & Fault-Tolerant Architectures
+- Disaster Recovery Strategies (Backup & Restore, Multi-AZ, DNS Failover)
+- Cloud Cost Management, Optimization & Monitoring
+- Secure Cloud Storage, IAM-Based Access Control & Data Protection
+- Automation-Ready Cloud Design & AWS Best Practice  
 
 ---
 
