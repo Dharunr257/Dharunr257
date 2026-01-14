@@ -14,11 +14,11 @@ Cloud Engineer | AWS Certified Cloud Practitioner (CLF-C02)
 <div>
   <img align="right" src="https://img.freepik.com/free-photo/person-playing-3d-video-games-device_23-2151005751.jpg" alt="Cloud" width="360" />
 
-  <p>☁️ Cloud Engineer focused on designing secure, scalable, and cost-efficient cloud solutions</p>
+  <p>☁️ Cloud Engineer focused on designing secure, scalable, and cost-efficient cloud solutions on AWS</p>
   <p>🎓 Final Year B.Tech in <strong>Artificial Intelligence & Data Science</strong></p>
   <p>📜 <strong>AWS Certified Cloud Practitioner (CLF-C02)</strong></p>
   <p>📘 <strong>AWS Solutions Architect – Associate (Upcoming)</strong></p>
-  <p>🧠 Strong foundation in <strong>Cloud Architecture, Cost Optimization, Monitoring & Security</strong></p>
+  <p>🧠 Strong foundation in <strong> AWS cloud architecture, cost optimization, monitoring, security, and reliability </strong> best practices </p>
   <p>📫 Reach me at: <strong>dharundharun257@gmail.com</strong></p>
   <p>🌐 Portfolio: <strong>https://dharunr257.github.io</strong></p>
 </div>
