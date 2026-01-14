@@ -12,7 +12,7 @@ Cloud Engineer | AWS Certified Cloud Practitioner (CLF-C02)
 ---
 
 <div>
-  <img align="right" src="https://img.freepik.com/free-photo/cloud-computing-technology-online-data-storage-business-network-concept_31965-13552.jpg" alt="Cloud" width="360" />
+  <img align="right" src="https://img.freepik.com/free-photo/person-playing-3d-video-games-device_23-2151005751.jpg" alt="Cloud" width="360" />
 
   <p>☁️ Cloud Engineer focused on designing secure, scalable, and cost-efficient cloud solutions</p>
   <p>🎓 Final Year B.Tech in <strong>Artificial Intelligence & Data Science</strong></p>
