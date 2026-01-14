@@ -26,12 +26,12 @@ Cloud Engineer | AWS Certified Cloud Practitioner (CLF-C02)
 ---
 
 ## ☁️ Cloud Focus Areas
-- AWS Cloud Architecture & Core Services  
-- High Availability & Disaster Recovery  
-- Cloud Cost Optimization & Monitoring  
-- Secure Cloud Storage & Access Control  
-- Multi-Tenant SaaS Architecture  
-- Automation & Cloud Best Practices  
+-AWS Cloud Fundamentals & Core Services (Compute, Storage, Networking, Security)
+-Designing Highly Available & Fault-Tolerant Architectures
+-Disaster Recovery Strategies (Backup & Restore, Multi-AZ, DNS Failover)
+-Cloud Cost Management, Optimization & Monitoring
+-Secure Cloud Storage, IAM-Based Access Control & Data Protection
+-Automation-Ready Cloud Design & AWS Best Practice  
 
 ---
 
@@ -48,12 +48,13 @@ Cloud Engineer | AWS Certified Cloud Practitioner (CLF-C02)
     <td><strong>AWS Certified Cloud Practitioner (CLF-C02)</strong></td>
     <td>✅ Achieved</td>
     <td>
-      <div 
-        data-iframe-width="150" 
-        data-iframe-height="270" 
-        data-share-badge-id="0f5fbe21-092a-4e56-81ad-464462941776" 
-        data-share-badge-host="https://www.credly.com">
-      </div>
+      <a href="https://www.credly.com/badges/0f5fbe21-092a-4e56-81ad-464462941776/public_url" target="_blank">
+        <img 
+          src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" 
+          width="120" 
+          alt="AWS Certified Cloud Practitioner Badge"
+        />
+      </a>
     </td>
   </tr>
 
@@ -64,11 +65,109 @@ Cloud Engineer | AWS Certified Cloud Practitioner (CLF-C02)
   </tr>
 </table>
 
-<script 
-  type="text/javascript" 
-  async 
-  src="//cdn.credly.com/assets/utilities/embed.js">
-</script>
+
+---
+
+# ☁️ Cloud & Engineering Tech Stack
+
+<table align="center" width="95%">
+
+  <!-- Row 1 : Cloud Core -->
+  <tr>
+    <th align="center">☁️ Cloud Platforms</th>
+    <th align="center">🏗️ Architecture & Operations</th>
+    <th align="center">🔐 Security & Monitoring</th>
+  </tr>
+
+  <tr align="center">
+    <td>
+      <img src="https://skillicons.dev/icons?i=aws" height="40" title="AWS"/>
+      <img src="https://skillicons.dev/icons?i=gcp" height="40" title="Google Cloud"/>
+      <br/>
+      <sub>AWS (Primary) · GCP (Basic)</sub>
+    </td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=linux" height="40" title="Linux"/>
+      <img src="https://skillicons.dev/icons?i=docker" height="40" title="Docker"/>
+      <img src="https://img.shields.io/badge/VPC-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" height="28"/>
+      <br/>
+      <sub>VPC · Containers · OS</sub>
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/IAM-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" height="28"/>
+      <img src="https://img.shields.io/badge/CloudWatch-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" height="28"/>
+      <img src="https://img.shields.io/badge/CloudTrail-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" height="28"/>
+      <br/>
+      <sub>Identity · Logging · Monitoring</sub>
+    </td>
+  </tr>
+
+  <tr><td colspan="3"><hr/></td></tr>
+
+  <!-- Row 2 : Core AWS Services -->
+  <tr>
+    <th align="center">🧱 Compute & Networking</th>
+    <th align="center">📦 Storage & Databases</th>
+    <th align="center">📊 Cost & Reliability</th>
+  </tr>
+
+  <tr align="center">
+    <td>
+      <img src="https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white" height="28"/>
+      <img src="https://img.shields.io/badge/ELB-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" height="28"/>
+      <img src="https://img.shields.io/badge/Route53-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" height="28"/>
+      <br/>
+      <sub>Compute · Load Balancing · DNS</sub>
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" height="28"/>
+      <img src="https://img.shields.io/badge/RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white" height="28"/>
+      <br/>
+      <sub>Object Storage · Relational DB</sub>
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/AutoScaling-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" height="28"/>
+      <img src="https://img.shields.io/badge/AWS%20Budgets-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" height="28"/>
+      <br/>
+      <sub>High Availability · Cost Optimization</sub>
+    </td>
+  </tr>
+
+  <tr><td colspan="3"><hr/></td></tr>
+
+  <!-- Row 3 : Engineering Support -->
+  <tr>
+    <th align="center">🧑‍💻 Programming & Scripting</th>
+    <th align="center">🌐 Full Stack (Supportive)</th>
+    <th align="center">🧰 Tools & DevOps</th>
+  </tr>
+
+  <tr align="center">
+    <td>
+      <img src="https://skillicons.dev/icons?i=py" height="40" title="Python"/>
+      <img src="https://skillicons.dev/icons?i=bash" height="40" title="Bash"/>
+      <img src="https://skillicons.dev/icons?i=js" height="40" title="JavaScript"/>
+      <br/>
+      <sub>Automation · Cloud Scripting</sub>
+    </td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=nodejs" height="40"/>
+      <img src="https://skillicons.dev/icons?i=express" height="40"/>
+      <img src="https://skillicons.dev/icons?i=react" height="40"/>
+      <br/>
+      <sub>Cloud-Ready Applications</sub>
+    </td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=git" height="40"/>
+      <img src="https://skillicons.dev/icons?i=github" height="40"/>
+      <img src="https://skillicons.dev/icons?i=postman" height="40"/>
+      <img src="https://skillicons.dev/icons?i=vscode" height="40"/>
+      <br/>
+      <sub>CI/CD · API Testing · Dev Tools</sub>
+    </td>
+  </tr>
+
+</table>
 
 ---
 
@@ -87,67 +186,9 @@ Cloud Engineer | AWS Certified Cloud Practitioner (CLF-C02)
     </td>
   </tr>
 </table>
-
 ---
 
-# ☁️ Cloud & Engineering Tech Stack
 
-<table align="center" width="95%">
-
-  <tr>
-    <th align="center">☁️ Cloud</th>
-    <th align="center">🧠 Architecture & Ops</th>
-    <th align="center">🧑‍💻 Programming</th>
-  </tr>
-
-  <tr align="center">
-    <td>
-      <img src="https://skillicons.dev/icons?i=aws" height="40"/>
-      <img src="https://skillicons.dev/icons?i=gcp" height="40"/>
-    </td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=linux" height="40"/>
-      <img src="https://skillicons.dev/icons?i=docker" height="40"/>
-      <img src="https://img.shields.io/badge/CloudWatch-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" height="30"/>
-    </td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=py" height="40"/>
-      <img src="https://skillicons.dev/icons?i=js" height="40"/>
-      <img src="https://skillicons.dev/icons?i=bash" height="40"/>
-    </td>
-  </tr>
-
-  <tr><td colspan="3"><hr/></td></tr>
-
-  <tr>
-    <th align="center">🌐 Full Stack (Supportive)</th>
-    <th align="center">🗃️ Databases</th>
-    <th align="center">🧰 Tools</th>
-  </tr>
-
-  <tr align="center">
-    <td>
-      <img src="https://skillicons.dev/icons?i=react" height="40"/>
-      <img src="https://skillicons.dev/icons?i=nodejs" height="40"/>
-      <img src="https://skillicons.dev/icons?i=express" height="40"/>
-      <img src="https://skillicons.dev/icons?i=tailwind" height="40"/>
-    </td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=mongodb" height="40"/>
-      <img src="https://skillicons.dev/icons?i=mysql" height="40"/>
-      <img src="https://skillicons.dev/icons?i=postgres" height="40"/>
-    </td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=git" height="40"/>
-      <img src="https://skillicons.dev/icons?i=github" height="40"/>
-      <img src="https://skillicons.dev/icons?i=postman" height="40"/>
-      <img src="https://skillicons.dev/icons?i=vscode" height="40"/>
-    </td>
-  </tr>
-
-</table>
-
----
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
