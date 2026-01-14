@@ -41,16 +41,34 @@ Cloud Engineer | AWS Certified Cloud Practitioner (CLF-C02)
   <tr align="center">
     <th>Certification</th>
     <th>Status</th>
+    <th>Badge</th>
   </tr>
+
   <tr align="center">
-    <td>AWS Certified Cloud Practitioner (CLF-C02)</td>
+    <td><strong>AWS Certified Cloud Practitioner (CLF-C02)</strong></td>
     <td>✅ Achieved</td>
+    <td>
+      <div 
+        data-iframe-width="150" 
+        data-iframe-height="270" 
+        data-share-badge-id="0f5fbe21-092a-4e56-81ad-464462941776" 
+        data-share-badge-host="https://www.credly.com">
+      </div>
+    </td>
   </tr>
+
   <tr align="center">
-    <td>AWS Solutions Architect – Associate</td>
+    <td><strong>AWS Solutions Architect – Associate</strong></td>
     <td>⏳ Upcoming</td>
+    <td>—</td>
   </tr>
 </table>
+
+<script 
+  type="text/javascript" 
+  async 
+  src="//cdn.credly.com/assets/utilities/embed.js">
+</script>
 
 ---
 
