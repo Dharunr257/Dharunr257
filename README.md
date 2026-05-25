@@ -1,8 +1,8 @@
+```md
 <h1 align="center">Hi 👋, I'm Dharun R</h1>
+
 <h3 align="center">
-Cloud Engineer | AWS Certified Cloud Practitioner (CLF-C02) 
-<br/>
-(AWS Solutions Architect – Associate | Upcoming)
+Cloud & DevOps Engineer | AWS Certified Solutions Architect – Associate | 2x AWS Certified
 </h3>
 
 <div align="center">
@@ -14,24 +14,37 @@ Cloud Engineer | AWS Certified Cloud Practitioner (CLF-C02)
 <div>
   <img align="right" src="https://img.freepik.com/free-photo/person-playing-3d-video-games-device_23-2151005751.jpg" alt="Cloud" width="360" />
 
-  <p>☁️ Cloud Engineer focused on designing secure, scalable, and cost-efficient cloud solutions on AWS</p>
-  <p>🎓 Final Year B.Tech in <strong>Artificial Intelligence & Data Science</strong></p>
+  <p>☁️ Cloud & DevOps Engineer passionate about building secure, scalable, and cost-optimized cloud solutions on AWS</p>
+
+  <p>🎓 Final Year B.Tech Student in <strong>Artificial Intelligence & Data Science</strong></p>
+
+  <p>🏅 <strong>2x AWS Certified</strong></p>
+
+  <p>📜 <strong>AWS Certified Solutions Architect – Associate (SAA-C03)</strong></p>
+
   <p>📜 <strong>AWS Certified Cloud Practitioner (CLF-C02)</strong></p>
-  <p>📘 <strong>AWS Solutions Architect – Associate (Upcoming)</strong></p>
-  <p>🧠 Strong foundation in <strong> AWS cloud architecture, cost optimization, monitoring, security, and reliability </strong> best practices </p>
+
+  <p>🧠 Strong foundation in <strong>Cloud Architecture, Networking, Security, Monitoring, High Availability, Cost Optimization, and Reliability Best Practices</strong></p>
+
+  <p>🚀 Interested in <strong>Cloud Computing, DevOps, AI-powered Systems, and Scalable Application Architecture</strong></p>
+
   <p>📫 Reach me at: <strong>dharundharun257@gmail.com</strong></p>
+
   <p>🌐 Portfolio: <strong>https://dharunr257.github.io</strong></p>
 </div>
 
 ---
 
 ## ☁️ Cloud Focus Areas
-- AWS Cloud Fundamentals & Core Services (Compute, Storage, Networking, Security)
-- Designing Highly Available & Fault-Tolerant Architectures
-- Disaster Recovery Strategies (Backup & Restore, Multi-AZ, DNS Failover)
-- Cloud Cost Management, Optimization & Monitoring
-- Secure Cloud Storage, IAM-Based Access Control & Data Protection
-- Automation-Ready Cloud Design & AWS Best Practice  
+
+- Designing Secure AWS Architectures
+- Designing Resilient & Highly Available Systems
+- Designing High-Performing Cloud Architectures
+- Designing Cost-Optimized Cloud Solutions
+- AWS Networking, Monitoring & Security Best Practices
+- Disaster Recovery & Fault Tolerance Strategies
+- IAM-Based Access Control & Secure Cloud Storage
+- Automation-Ready Infrastructure & Scalable System Design
 
 ---
 
@@ -42,6 +55,12 @@ Cloud Engineer | AWS Certified Cloud Practitioner (CLF-C02)
     <th>Certification</th>
     <th>Status</th>
     <th>Badge</th>
+  </tr>
+
+  <tr align="center">
+    <td><strong>AWS Certified Solutions Architect – Associate (SAA-C03)</strong></td>
+    <td>✅ Achieved</td>
+    <td>🏅</td>
   </tr>
 
   <tr align="center">
@@ -57,16 +76,9 @@ Cloud Engineer | AWS Certified Cloud Practitioner (CLF-C02)
       </a>
     </td>
   </tr>
-
-  <tr align="center">
-    <td><strong>AWS Solutions Architect – Associate</strong></td>
-    <td>⏳ Upcoming</td>
-    <td>—</td>
-  </tr>
 </table>
 
-
----
+```
 
 # ☁️ Cloud & Engineering Tech Stack
 
