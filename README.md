@@ -1,4 +1,3 @@
-```md
 <h1 align="center">Hi 👋, I'm Dharun R</h1>
 
 <h3 align="center">
@@ -15,21 +14,13 @@ Cloud & DevOps Engineer | AWS Certified Solutions Architect – Associate | 2x A
   <img align="right" src="https://img.freepik.com/free-photo/person-playing-3d-video-games-device_23-2151005751.jpg" alt="Cloud" width="360" />
 
   <p>☁️ Cloud & DevOps Engineer passionate about building secure, scalable, and cost-optimized cloud solutions on AWS</p>
-
-  <p>🎓 Final Year B.Tech Student in <strong>Artificial Intelligence & Data Science</strong></p>
-
+  <p>🎓 B.Tech Graduate in <strong>Artificial Intelligence & Data Science</strong></p>
   <p>🏅 <strong>2x AWS Certified</strong></p>
-
   <p>📜 <strong>AWS Certified Solutions Architect – Associate (SAA-C03)</strong></p>
-
   <p>📜 <strong>AWS Certified Cloud Practitioner (CLF-C02)</strong></p>
-
   <p>🧠 Strong foundation in <strong>Cloud Architecture, Networking, Security, Monitoring, High Availability, Cost Optimization, and Reliability Best Practices</strong></p>
-
-  <p>🚀 Interested in <strong>Cloud Computing, DevOps, AI-powered Systems, and Scalable Application Architecture</strong></p>
-
+  <p>🚀 Interested in <strong>Cloud Computing, DevOps, Networking, AI-powered Systems, and Scalable Application Architecture</strong></p>
   <p>📫 Reach me at: <strong>dharundharun257@gmail.com</strong></p>
-
   <p>🌐 Portfolio: <strong>https://dharunr257.github.io</strong></p>
 </div>
 
@@ -60,7 +51,15 @@ Cloud & DevOps Engineer | AWS Certified Solutions Architect – Associate | 2x A
   <tr align="center">
     <td><strong>AWS Certified Solutions Architect – Associate (SAA-C03)</strong></td>
     <td>✅ Achieved</td>
-    <td>🏅</td>
+    <td>
+      <a href="https://www.credly.com/badges/d77934e9-bdfe-484a-8294-4a4c07711e74/public_url" target="_blank">
+        <img 
+          src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" 
+          width="120" 
+          alt="AWS Certified Cloud Practitioner Badge"
+        />
+      </a>
+    </td>
   </tr>
 
   <tr align="center">
@@ -78,9 +77,8 @@ Cloud & DevOps Engineer | AWS Certified Solutions Architect – Associate | 2x A
   </tr>
 </table>
 
-```
 
-# ☁️ Cloud & Engineering Tech Stack
+### ☁️ Cloud & Engineering Tech Stack
 
 <table align="center" width="95%">
 
@@ -220,3 +218,4 @@ Cloud & DevOps Engineer | AWS Certified Solutions Architect – Associate | 2x A
     <img src="https://img.icons8.com/fluency/48/gmail.png" height="30"/>
   </a>
 </p>
+```
